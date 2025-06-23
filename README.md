@@ -25,7 +25,7 @@
 
 ---
       
-  - | 🫡 14 y.o teenager from Uzbekistan🇺🇿
+  - | 🫡 16 y.o teenager from Uzbekistan🇺🇿
   - | 📖 student of secondary school №74 of the city of Denau
   - | 💻 Completed web development.
   - | ⬆️ If you click on the links above you can contact me
