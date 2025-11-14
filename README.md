@@ -1,9 +1,9 @@
 ### <h1 align="center"> What's up There. I'm Amonov Abdulhakim!👋</h1>
 ---
-  ⠀⠀ [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/abdulhakimus.13/)
-  [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/AbdulhakimUS)
+  ⠀⠀ [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/amonovvv_a/)
+  [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/amonovvv_a)
   [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCxP2_PfbMz3DMnEgPOeertg)
-  [![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=Github&logoColor=4F7DB3)](https://github.com/AbdulhakimAmonov)
+  [![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=Github&logoColor=4F7DB3)](https://github.com/AbdulhakimUS)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:umidillo33@gmail.com)
 
 
